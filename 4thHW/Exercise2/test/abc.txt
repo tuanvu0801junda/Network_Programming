@@ -1,0 +1,7 @@
+Today is a very cold day.
+Temperature: 18 degree celcius
+I am doing Network Programming homework, 
+on how to transfer a file from client to server
+
+Maybe this is the way Google Drive works.
+It's interesting.

@@ -1,0 +1,4 @@
+UserId	Password	Status
+anna	00917		1
+john	12345		0
+tuanvu	12345		1
